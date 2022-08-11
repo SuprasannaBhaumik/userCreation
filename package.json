@@ -1,0 +1,19 @@
+{
+  "name": "usercreation",
+  "version": "1.0.0",
+  "description": "creating users in dynamodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dynamodb",
+    "lambda"
+  ],
+  "author": "suprasanna bhaumik",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1192.0"
+  },
+  "type": "module"
+}
